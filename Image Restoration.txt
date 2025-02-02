@@ -1,0 +1,6 @@
+image restoration :
+1.Gaussian Filter*
+2.Mean Filter*
+3.Median Filter
+4.Bilateral Filter
+5.Memberikan Noise pada Image
